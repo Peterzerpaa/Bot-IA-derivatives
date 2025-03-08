@@ -1,0 +1,6 @@
+0 Derivada de una constante
+1 derivada de una raiz
+2 derivada de una potencia
+3 derivada de una función trigonométrica
+4 derivada de una función logarítmica
+5 derivada de una función exponencial
